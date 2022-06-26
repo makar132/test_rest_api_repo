@@ -1,4 +1,18 @@
 {
+    "appusers":[
+  {
+    
+    "national_id": 1,
+    "first_name": "makar",
+    "last_name": "samer",
+    "email": "makarsamer@gmail.com",
+    "password": "password",
+    "phone": "01234567890",
+    "address": "minya",
+    "subscription": "admin",
+    "family":null
+    }
+  ],
   "users": [
     {
       "id": 1,
